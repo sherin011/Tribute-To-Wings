@@ -12,5 +12,4 @@ This project is a fundamental web development task involving the design and stru
 * **Organized Content:** Features a clear timeline and bulleted achievements.
 * **Clean UI:** Focused on readability and professional aesthetics.
 
----
-**Status:** Completed | **Internship Task:** 01
+###Live Demo:http://127.0.0.1:5500/tribute_page.html
